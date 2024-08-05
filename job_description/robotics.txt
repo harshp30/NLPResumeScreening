@@ -1,0 +1,35 @@
+Description
+
+Are you inspired by invention? Is problem solving through teamwork in your DNA? Do you like the idea of seeing how your work impacts the bigger picture? Answer yes to these questions and you'll fit right in here at Amazon Robotics. We are a smart team of doers who work passionately to apply cutting edge advances in robotics and software to solve real-world challenges that will transform our customers experiences in ways we can't even image yet. We invent new improvements every day.
+
+This role is a 6 month co-op to join AR full time (40 hours/week) from July-December 2024. Come join us in North Reading, MA, or in our newly expanded innovation hub in Westborough, MA!
+
+Both campuses provide a unique opportunity for co-ops to have direct access to robotics testing labs and manufacturing facilities. Remote and hybrid flexibility is available for this role.
+
+Amazon Robotics, a wholly owned subsidiary of Amazon.com, empowers a smarter, faster, more consistent customer experience through automation. Amazon Robotics automates fulfilment center operations using various methods of robotic technology including autonomous mobile robots, sophisticated control software, language perception, power management, computer vision, depth sensing, machine learning, object recognition, and semantic understanding of commands. Amazon Robotics has a dedicated focus on research and development to continuously explore new opportunities to extend its product lines into new areas.
+
+Amazon Robotics is seeking a talented and motivated computer engineering or robotics student to assist with firmware development, testing, and support for manufacturing operations. The ideal candidate will have had experience with and interest in embedded system design, possess good communication skills, and enjoy problem solving both independently and in team settings. This position reports directly to the Firmware Manager.
+
+The Firmware Engineering Co-op Will Be Responsible For
+
+  Assisting the firmware team in writing code, scripts, and tests for our current and next generation of robotic systems
+ Assisting an interdisciplinary team of engineers in the execution of product designs from concept to production including design, prototyping, validation, testing, and certification
+ Having an understanding of and interest in the technical principles, theories, and concepts in embedded firmware development and testing
+
+We are open to hiring candidates to work out of one of the following locations:
+
+North Reading, MA, USA | Westborough, MA, USA
+
+Basic Qualifications
+
+  Currently working towards a BS in Computer Engineering, Robotics, or a similar field and must have at least one semester of school left to complete after the end of the co-op
+ Must be eligible and available for a full-time (40h / week) 6-month co-op between July 15 to December 20, 2024
+ Classroom and project experience in developing embedded systems, firmware, and/or control systems
+ Prior internship or co-op experience in a similar field
+
+Preferred Qualifications
+
+  Experience in the design and debugging of embedded systems
+ Working knowledge and experience programming with scripts and C
+ Commitment to rigorous testing practices
+ Excellent written and oral communication skills
