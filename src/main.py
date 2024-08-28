@@ -1,5 +1,5 @@
 from resume_screening import screen_resume
-from feedback import get_feedback_on_resume
+from src.feedback import get_feedback_on_resume
 
 def main():
     while True:

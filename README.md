@@ -146,11 +146,12 @@ This module calculates semantic similarity between resume and job description.
 
 ### Citations:
 
-Model and Dataset Credits:
 ```
-NLTK: https://www.nltk.org/
-spaCy: https://spacy.io/
-Gensim: https://radimrehurek.com/gensim/
-PyPDF2: https://pythonhosted.org/PyPDF2/
-Nvidia NeMo: https://www.nvidia.com/en-us/ai-data-science/foundation-models/ 
+Model and Dataset Credits:
+
+NLTK: https://www.nltk.org/ 
+spaCy: https://spacy.io/ 
+Gensim: https://radimrehurek.com/gensim/ 
+PyPDF2: https://pythonhosted.org/PyPDF2/ 
+Nvidia NeMo: https://www.nvidia.com/en-us/ai-data-science/foundation-models/
 ```
